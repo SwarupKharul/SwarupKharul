@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SwarupKharul/SwarupKharul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,8 @@ Here are some ideas to get you started:
    <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
   
   ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  My name is Aparajita and I'm pursuing my B.Tech in Electrical Engineering from NIT Durgapur and shall be graduating in 2021. 
-  - 😄 Pronouns: She/her ⚡ :princess:
+  My name is Swarup and I'm pursuing my B.Tech in Computer Science and Engineering with specialization in IoT from VIT, Vellore and shall be graduating in 2024. 
+  - 😄 Pronouns: He/him ⚡ :King:
 </head>
 <hr>
 
