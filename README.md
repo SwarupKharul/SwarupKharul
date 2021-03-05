@@ -1,6 +1,5 @@
 <!--
 **SwarupKharul/SwarupKharul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,10 +13,9 @@ Here are some ideas to get you started:
 -->
 <head > 
    <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
-  
   ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   My name is Swarup and I'm pursuing my B.Tech in Computer Science and Engineering with specialization in IoT from VIT, Vellore and shall be graduating in 2024. 
-  - 😄 Pronouns: He/him ⚡ :King:
+  - 😄 Pronouns: He/him ⚡
 </head>
 <hr>
 
