@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
 -->
 <head > 
-   <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
-   
-  ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+   ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   My name is Swarup and I'm pursuing my B.Tech in Computer Science and Engineering with specialization in IoT from VIT, Vellore and shall be graduating in 2024. 
   - 😄 Pronouns: He/him ⚡
 </head>
