@@ -13,11 +13,22 @@ Here are some ideas to get you started:
 -->
 <head > 
    <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
+   
   ### Hi there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   My name is Swarup and I'm pursuing my B.Tech in Computer Science and Engineering with specialization in IoT from VIT, Vellore and shall be graduating in 2024. 
   - 😄 Pronouns: He/him ⚡
 </head>
 <hr>
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Tuntai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarupKharul&hide=java,html&theme=onedark" />
+</a>
+<a href="https://github.com/Tuntai"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=SwarupKharul&theme=onedark&count_private=true" alt="Swarup's GitHub Stats" />
+</a>
+
+<hr>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SwarupKharul&theme=onedark&count_private=true" />
 <hr>
