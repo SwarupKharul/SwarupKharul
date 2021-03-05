@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Tuntai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarupKharul&hide=java,html&theme=onedark" />
 </a>
-<br><br><br>
+<br><br>
 <a href="https://github.com/Tuntai">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SwarupKharul&theme=onedark&count_private=true" alt="Swarup's GitHub Stats" />
 </a>
