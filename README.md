@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- <img src="https://github.com/Tuntai/Tuntai/blob/main/hello.gif" alt="alt text" width="272" height="300" />
 -->
 <head > 
    
@@ -21,11 +20,11 @@ Here are some ideas to get you started:
 <hr>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Tuntai">
+<a href="https://github.com/SwarupKharul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarupKharul&hide=java,html&theme=onedark" />
 </a>
 <br><br>
-<a href="https://github.com/Tuntai">
+<a href="https://github.com/SwarupKharul">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SwarupKharul&theme=onedark&count_private=true" alt="Swarup's GitHub Stats" />
 </a>
 
