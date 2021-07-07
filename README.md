@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="mailto:swarupkharulsk@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-<!--
+
 <h3 align="center"> 🔭 I’m currently working on :computer: </h3>
 <p align="center">
   <code><img height="30" src="http://simpleicons.org/icons/awesomelists.svg"></code>&nbsp;&nbsp;
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
  <code><img height="30" src="https://simpleicons.org/icons/react.svg"></code>&nbsp;&nbsp;
 </p>
 <hr>
--->
+
