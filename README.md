@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <head > 
    
    ### Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  My name is Swarup and I'm pursuing my B.Tech in Computer Science and Engineering with specialization in IoT from VIT, Vellore and shall be graduating in 2024. 
+  <strong>Heyaa!! I am a Full Stack Developer, ML Enthusuaiast, OpenSource Contributer pursuing my B.Tech in Computer Science and Engineering with specialization in IoT from VIT, Vellore and shall be graduating in 2024.</strong>
   - 😄 Pronouns: He/him ⚡
 </head>
 <hr>
