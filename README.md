@@ -31,12 +31,8 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SwarupKharul&theme=onedark&count_private=true" alt="Swarup's GitHub Stats" />
 </a>
 
-<hr>
- <h3  align='center'> 📫 You can find me on :globe_with_meridians: </h3>
- <p align='center'>
- <a href="https://www.linkedin.com/in/swarupkharul/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:swarupkharulsk@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center"> 🔭 Tools and Technologies I know:computer: </h3>
@@ -69,3 +65,9 @@ Here are some ideas to get you started:
     </p>
 <hr>
 
+
+ <h3  align='center'> 📫 You can find me on :globe_with_meridians: </h3>
+ <p align='center'>
+ <a href="https://www.linkedin.com/in/swarupkharul/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:swarupkharulsk@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<hr>
