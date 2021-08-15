@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="center"> 🔭 Tools and Technologies :computer: </h3>
+<h3 align="center"> 🔭 Tools and Technologies I know:computer: </h3>
 <p align="left"> 
    <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
