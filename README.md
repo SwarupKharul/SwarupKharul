@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him ⚡
 - 🔭 I’m currently working on Django, Hapi.js, React
 - 🌱 I’m currently learning OpenCV, DevOps
-- 👯 I’m looking to collaborate on Ml based projects
+- 👯 I’m looking to collaborate on ML based projects
 </head>
 <hr>
 
