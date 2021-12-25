@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <strong>Heyaa!! I am a Full Stack Developer, ML Enthusuaiast, OpenSource Contributer pursuing my B.Tech in Computer Science and Engineering with specialization in IoT from VIT, Vellore and shall be graduating in 2024.</strong>
 - 😄 Pronouns: He/him ⚡
 - 🔭 I’m currently working on Django, Hapi.js, React
-- 🌱 I’m currently learning OpenCV, DevOps
+- 🌱 I’m currently learning OpenCV, DevOps, Hadoop
 - 👯 I’m looking to collaborate on ML based projects
 </head>
 <hr>
